@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/abirett2/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/abirett2/anon-ecommerce-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/abirett2/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/abirett2?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ashfaquertc70?style=social)](https://twitter.com/intent/follow?screen_name=ashfaquertc70)
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
